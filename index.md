@@ -1,6 +1,6 @@
-#Maddie Pietranek's first CS193 Lab
--I love the people
--I love the food
+# Maddie Pietranek's first CS193 Lab
+- I love the people
+- I love the food
 
 ## Welcome to GitHub Pages
 
